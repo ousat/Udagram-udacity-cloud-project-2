@@ -9,7 +9,9 @@ This project is part of udacity cloud developer nanodegree
 
 
 Screenshot of deployment on AWS Elastic beanstalk:
-[aws screenshot](screenshots/deployed_on_eb.png)
+
+
+[aws screenshot](https://raw.githubusercontent.com/ousat/Udagram-udacity-cloud-project-2/master/screenshots/deployed_on_eb.png)
 
 
 
